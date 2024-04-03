@@ -7,7 +7,7 @@ nav {
     justify-content: space-around;
     padding: 0 1rem;
     position: sticky;
-    background-color: #a3b18a;
+    background-color: white;
 }
 
 /* Logo styling */
@@ -49,5 +49,5 @@ nav ul li .about_link:hover,
 nav ul li .reservations_link:hover,
 nav ul li .order_link:hover,
 nav ul li .login_link:hover {
-    background-color: #3a5a40;
+    background-color: #84a98c;
 }
